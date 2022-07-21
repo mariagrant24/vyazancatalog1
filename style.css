@@ -32,9 +32,10 @@
 
 
 .content__title{
-    width: 919.96px;
     font-size: 48px;
     line-height: 52px;
+    margin-bottom: 50px;
+    margin-top: 55px;
     font-family: 'Open Sans';
    
 }
