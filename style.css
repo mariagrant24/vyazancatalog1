@@ -56,11 +56,11 @@ font-family: 'Open Sans';
 }
 .footer {
 background-color:#A7958B;
-padding: 42px 0 116px 0; 
+padding: 42px 0 71px 0; 
 
 }
 
-.footer__copywrite {
+.footer__copyright {
 font-size: 42px;
 line-height: 50px;
 font-family: 'Bebas Neue';
